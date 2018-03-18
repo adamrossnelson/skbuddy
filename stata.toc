@@ -1,0 +1,5 @@
+v 1.0.0. Stata command skbuddy
+d skbuddy: Stata package designed to quickly export feature and target matrices as CSV for use with SciKit Learn.
+d version and support form
+d https://github.com/adamrossnelson/skbuddy
+p skbuddy

@@ -1,0 +1,9 @@
+d skbuddy: Stata package designed to quickly export feature and target matrices as CSV for use with SciKit Learn.
+d
+d Distribution-Date: March 2018
+d
+d Author: Adam Ross Nelson
+d Support: https://github.com/adamrossnelson/skbuddy
+d
+f skbuddy.ado
+f skbuddy.sthlp
