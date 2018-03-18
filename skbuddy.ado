@@ -4,6 +4,7 @@
 // will be exprotd as a feature matrix.
 
 program skbuddy, rclass byable(recall)
+	version 15
 	
 	syntax varlist(min=2) [if] [in] [, fstub(string) floc(string) jnum replace]
 	
