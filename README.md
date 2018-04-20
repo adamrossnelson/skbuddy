@@ -16,7 +16,7 @@ net install skbuddy, from(https://raw.githubusercontent.com/adamrossnelson/skbud
 ```
 
 ## Alternatives to skbuddy
-The alternative to skbuddy would be to manually convert Stata `dta` files to `csv` or another format readily accessible in Python. A more direction option would be to use `pd.read_stata()`. For example:
+The alternative to skbuddy would be to manually convert Stata `dta` files to `csv` or another format readily accessible in Python. A more direct option would be to use `pd.read_stata()`. For example:
 
 ```Python
 import pandas as pd
